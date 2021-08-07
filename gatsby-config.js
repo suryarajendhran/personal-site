@@ -6,6 +6,7 @@ const googleAnalyticsTrackingId = process.env.GOOGLE_ANALYTICS_ID
 module.exports = {
   siteMetadata: {
     siteTitle: `Surya Rajendhran`,
+    siteTitleAlt: `Surya Rajendhran`,
     siteHeadline: `Surya Rajendhran`,
     siteUrl: `https://suryarajendhran.com`,
     siteDescription: `A place internet strangers can get to know me.`,

@@ -5,7 +5,13 @@ const googleAnalyticsTrackingId = process.env.GOOGLE_ANALYTICS_ID
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `Surya Rajendhran`,
+    siteHeadline: `Surya Rajendhran`,
+    siteUrl: `https://suryarajendhran.com`,
+    siteDescription: `A place internet strangers can get to know me.`,
+    siteLanguage: `en`,
+    siteImage: `/banner.jpg`,
+    author: `@lekoarts_de`,
   },
   plugins: [
     {

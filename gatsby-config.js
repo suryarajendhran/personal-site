@@ -11,7 +11,7 @@ module.exports = {
     siteUrl: `https://suryarajendhran.com`,
     siteDescription: `A place where internet strangers can get to know me :)`,
     siteLanguage: `en`,
-    siteImage: `/banner-alt.jpg`,
+    siteImage: `/banner.jpg`,
     author: `@suryarajendhran`,
   },
   plugins: [

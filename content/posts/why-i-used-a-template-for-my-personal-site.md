@@ -24,9 +24,9 @@ Then I realised that having a personal site is similar to that. You can either w
 
 1. Change the title and logo
 2. Change the website description
-3. Change the social preview to something that speaks to you (Mine is just a goofy old selfie!) 
+3. Change the social preview to something that speaks to you (Mine is just a goofy old selfie!)
 
-![A social preview](/uploads/social-preview.png "Taken from https://cards-dev.twitter.com/validator")
+<img src="/uploads/social-preview.png" alt="drawing" style="width:100%;"/>
 
 4. Change the names of various sections (blogs -> thoughts/stories/rants)
 5. Change the accent colour to something you like

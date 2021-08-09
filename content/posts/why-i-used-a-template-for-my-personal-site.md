@@ -1,0 +1,43 @@
+---
+title: Why I used a template for my personal site
+date: 2021-08-09T08:25:00Z
+description: And why you might want to
+tags:
+- career
+- developer
+banner: "/uploads/cartman-happy.gif"
+
+---
+As a young developer and writer, having explored the likes of medium I wanted to create a site all to myself. This was back in 2016 and I had two choices at hand: build my own site or pick a template and roll with that.
+
+# Building a website is hard
+
+Don't get me wrong, I've designed and developed a SaaS platform from scratch so I wasn't new to building a website. But when you want to build one that is for all purposes a digital extension of you, it gets a bit tricky. Colours never look right, fonts keep changing and margins are never enough. Perfectionism kills, I know.
+
+So I decided to just go with the flow and publish a version of the website anyway, even if it wasn't perfect a few months ago. I published maybe one article and then stopped altogether.
+
+# Why I changed my mind
+
+So I was taking a Skillshare [course](https://skl.sh/2VuS9l1) on self-care by [Jonathan Van Ness](https://twitter.com/jvn) on Friday (9 Aug 2021, about 3 days before the publication of this article) and had a eureka moment when he was talking about how personalising your journal will make you more likely actually journal every day. And this could be as simple as writing your favourite quote on the cover or as elaborate as finding your own paper and cover to build your own.
+
+Then I realised that having a personal site is similar to that. You can either wait a few months to build a website all on your own or take a template, add a little personal touch to it and build on it. Most open-source templates allow you to modify them without infringing any rights. In fact, Gatsby (one of the most popular JS frameworks for static blogs) has an entire [article](https://www.gatsbyjs.com/docs/how-to/plugins-and-themes/shadowing/) dedicated to shadowing themes/templates. Here are a few first steps you can take to personalise your website in the order of increasing difficulty:
+
+1. Change the title and logo
+2. Change the website description
+3. Change the social preview to something that speaks to you (Mine is just a goofy old selfie!) 
+
+![A social preview](/uploads/social-preview.png "Taken from https://cards-dev.twitter.com/validator")
+
+4. Change the names of various sections (blogs -> thoughts/stories/rants)
+5. Change the accent colour to something you like
+
+I was done in 2 days of about 2 hours of work each. Easy peasy. Now I can't wait to write and post more!
+
+And if you're curious this is the stack I'm using:
+
+1. Static Site Generator: [Gatsby](https://www.gatsbyjs.com/)
+2. CDN: [Cloudflare Pages](https://pages.cloudflare.com/)
+3. CMS: [Forestry](https://forestry.io) (Git-based!)
+4. Template: [Minimal Blogging theme](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog) by [LekoArts](https://themes.lekoarts.de/) (He's got some of the most beautiful open source templates)
+
+If you're looking to find a theme for your site, I recommend [https://jamstackthemes.dev/](https://jamstackthemes.dev/ "https://jamstackthemes.dev/").

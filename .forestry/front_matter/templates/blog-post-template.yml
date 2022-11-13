@@ -18,5 +18,6 @@ fields:
   name: banner
   label: banner
 pages:
+- content/posts/building-an-mvp-in-less-than-24-hours.md
 - content/posts/find-your-dangerous.md
 - content/posts/why-i-now-use-reddit-for-self-development.md

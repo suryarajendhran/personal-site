@@ -20,7 +20,7 @@ Since your server will be the ground truth for all clients, it’s best to set i
 2. Your development environment: If you have a simple script that spins up your development server than make modifications at the application level to set timezone. If you have a docker or docker-compose setup for your development server then you can set your docker timezones to UTC.
 3. Your CI/CD environment: For CI/CD you can follow similar steps as outlined above to set it up but one caveat being that your test environment should have multi-timezone setups to effectively test whether your app responds to changes in timezones. There are many setups you can use here but my most used example is setting up the cypress tests to run in a different timezone by adding a `TZ` variable to the cypress script.
 
-<aside> 
+<aside>
 
 💡 I’m going to use the npm library `date-fns-tz` for my example but the steps should be easy to translate for other libraries (such as `moment`) and other stacks.
 
@@ -38,7 +38,6 @@ After much trial and error this is the simplest setup I have come up with:
        data.someDate = zonedTimeToUTC(data.someDate, app.timezone);
        
        postForm(data);
-       
 2. On the backend, you can process and store data normally without making any changes to the form handling.
 
 ## Sending data from the server
@@ -52,5 +51,5 @@ It depends on two cases:
 
 Similar to the server we have two cases where the dates have to be handled differently
 
-1. If the date is being display in a `div` or somewhere it is only displayed then use `formatInTimezone` to display the UTC dateTime from the server in the store timezone.
+1. If the date is being display in a `div` or somewhere it is only displayed then use `formatInTimezone` to display in the store timezone.
 2. If the date is passed to a selector or other kinds of input elements that needs to process it then use the function `utcToZonedTime` to convert the dateTime so it will be processed right.

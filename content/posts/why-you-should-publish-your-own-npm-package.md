@@ -35,7 +35,7 @@ Countless packages are published every year and there are some great ones out th
 
 ## Find a buddy
 
-Approaching new and uncharted territory can be scary and slow your motivation. In order to avoid analysis paralysis, find someone who has done it before to show you the ropes. I am open to guiding fellow developers with this process, you can find me on discord or twitter.
+Approaching new and uncharted territory can be scary and slow your motivation. In order to avoid analysis paralysis, find someone who has done it before to show you the ropes or a fellow developer who wants to work on writing the package with you.
 
 Here are some resources that might help you get you started:
 

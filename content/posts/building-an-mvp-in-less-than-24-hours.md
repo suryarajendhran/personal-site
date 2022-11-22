@@ -5,7 +5,7 @@ description: ''
 tags:
 - entrepreneurship
 - tech
-banner: ''
+banner: "/uploads/2w9v2a.jpg"
 
 ---
 No it wasn't a challenge we put out for ourselves. We were a humble team of two that planned a modest timeline of a month to develop an education related service and another month to get it to production. It was well thought out plan, we accounted for most common development problems and decided to deal with them head on.

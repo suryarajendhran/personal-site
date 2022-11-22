@@ -5,7 +5,7 @@ description: ''
 tags:
 - code
 - tech
-banner: ''
+banner: "/uploads/p0cn6z14.jpg"
 
 ---
 When you have multiple members of an organisation viewing the same data, you can disparities in time/date display simply because of how Dates are handled in Javascript. Adding a timezone setting is helpful.

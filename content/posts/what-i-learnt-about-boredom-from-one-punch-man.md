@@ -4,7 +4,7 @@ date: 2021-08-13T05:20:00Z
 description: ''
 tags:
 - self-help
-banner: ''
+banner: "/uploads/one_punch_man_sweat_punch.jpg"
 
 ---
 Most if not all anime fans would be familiar with the Japanese anime 'One Punch Man'. The show follows the life of one Saitama. A man that vowed to become the greatest hero and so trained incredibly hard that he became strong enough to beat anyone with a single punch (aha!).

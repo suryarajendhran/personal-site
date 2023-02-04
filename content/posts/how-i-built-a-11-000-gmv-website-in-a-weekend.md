@@ -6,7 +6,7 @@ description: A look into how I built a website to fulfil the credit needs of you
 tags:
 - entrepreneurship
 - tech
-banner: ''
+banner: "/uploads/dall-e-2023-02-04-09-55-39.png"
 
 ---
 # Overview

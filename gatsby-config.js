@@ -35,7 +35,7 @@ module.exports = {
             url: `https://linktr.ee/suryarajendhran`,
           },
           {
-            name: `Email`,
+            name: `Email me`,
             url: `mailto:suryarajendhran@outlook.com`,
           },
         ],

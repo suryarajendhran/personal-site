@@ -55,3 +55,7 @@ We had a quick influx of users thanks to some well-placed Facebook ads and the a
 3. Users don't always require a dashboard. As long as they have a straightforward way to contact a human and receive timely text or email communication, they are content to go without a dashboard on your website.
 
 That's all for now. I regularly update my posts with more information, so if you'd like me to add something, please don't hesitate to reach out via email.
+
+# Update
+
+As of 17 Feb 2023, the app has disbursed ￡1.2m in loans and growing organically!

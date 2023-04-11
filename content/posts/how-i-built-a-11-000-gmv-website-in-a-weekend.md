@@ -1,5 +1,5 @@
 ---
-title: How I built a ￡11,000+ GMV website in a weekend
+title: How I built a ￡1.2m+ GMV website
 date: 2023-02-03T18:30:00Z
 description: A look into how I built a website to fulfil the credit needs of young
   learner drivers in the UK/EU in a weekend, and the lessons I learned along the way.

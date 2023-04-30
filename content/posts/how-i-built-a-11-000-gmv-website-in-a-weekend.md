@@ -1,14 +1,16 @@
 ---
 title: Building a ￡1.2m+ GMV website
-date: 2023-02-03T18:30:00Z
-description: A look into how I built a website to fulfil the credit needs of young
-  learner drivers in the UK/EU in a weekend, and the lessons I learned along the way.
+date: 2023-02-03T18:30:00.000Z
+description: >-
+  A look into how I built a website to fulfil the credit needs of young learner
+  drivers in the UK/EU in a weekend, and the lessons I learned along the way.
 tags:
-- entrepreneurship
-- tech
-banner: "/uploads/dall-e-2023-02-04-09-55-39.png"
-
+  - entrepreneurship
+  - tech
+banner: /uploads/dall-e-2023-02-04-09-55-39.png
+_template: blog_post_template
 ---
+
 # Overview
 
 Back in mid-2021, I was approached by a friend of a friend (let's call him A) about an idea. He and his brother wanted to fulfil the credit needs of young learner drivers in the UK/EU.

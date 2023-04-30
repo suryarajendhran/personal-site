@@ -1,12 +1,13 @@
 ---
 title: Why I now use reddit for self-development
-date: 2021-06-15T05:25:00Z
+date: 2021-06-15T05:25:00.000Z
 description: And you should too
 tags:
-- self-help
-banner: "/uploads/reddit-logo.png"
-
+  - self-help
+banner: /uploads/reddit-logo.png
+_template: blog_post_template
 ---
+
 For the longest time I've been a self help and self development junkie. Like many others, 'Rich dad Poor dad' was my humble beginning into this genre and I was hooked. Over the years I've consumed from various creators and sources. YouTube, Books and Podcasts have helped me make changes in my daily life that made it better.
 
 But if I'm going to be honest, I probably use about 10-20% of those principles in my life right now. It's only a small niche group of people that can simply read a book make a change and have it stick for the long term. Many of these failures could be attributed to circumstances, poor execution, perhaps even laziness. Or so I thought.

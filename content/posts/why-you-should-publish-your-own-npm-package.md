@@ -1,12 +1,13 @@
 ---
 title: Why you should publish your own NPM package
-date: 2021-11-17T03:30:00Z
+date: 2021-11-17T03:30:00.000Z
 description: ''
 tags:
-- tech
-banner: "/uploads/338e4905a2684ca96e08c7780fc68412.png"
-
+  - tech
+banner: /uploads/338e4905a2684ca96e08c7780fc68412.png
+_template: blog_post_template
 ---
+
 A month ago, one of my friends had sent me a link to an NPM package. It was a package that helped parse RSS feeds. And what surprised me was that he was the author of the package. He had about a 100 odd downloads in the last week and that got me thinking about maybe publishing a package myself. I'm sure that most developers at some point in time would have looked at their code and thought that a particular piece of their code could be packaged up to be served to the world. So I began my journey into creating my first package and here is what I learnt:
 
 I started with creating a simple javascript version that just exported a function. I followed along some guides on how to publish your NPM package such as [https://zellwk.com/blog/publish-to-npm/](https://zellwk.com/blog/publish-to-npm/ "https://zellwk.com/blog/publish-to-npm/"). And then added typescript on top of it. Then later added web pack. Finally, making it a UMD module so users can access it on the browser.

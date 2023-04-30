@@ -1,13 +1,14 @@
 ---
 title: Adding a timezone setting to your app
-date: 2022-07-02T05:16:00Z
+date: 2022-07-02T05:16:00.000Z
 description: ''
 tags:
-- code
-- tech
-banner: "/uploads/p0cn6z14.jpg"
-
+  - code
+  - tech
+banner: /uploads/p0cn6z14.jpg
+_template: blog_post_template
 ---
+
 When you have multiple members of an organisation viewing the same data, you can disparities in time/date display simply because of how Dates are handled in Javascript. Adding a timezone setting is helpful.
 
 In fact, adding a timezone setting becomes inevitable once you realise the complexity you’ll need to deal with especially if you’re a SaaS app that has customer organisations with users in many timezones.

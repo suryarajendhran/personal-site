@@ -1,12 +1,13 @@
 ---
 title: What I learnt about boredom from One Punch Man
-date: 2021-08-13T05:20:00Z
+date: 2021-08-13T05:20:00.000Z
 description: ''
 tags:
-- self-help
-banner: "/uploads/one_punch_man_sweat_punch.jpg"
-
+  - self-help
+banner: /uploads/one_punch_man_sweat_punch.jpg
+_template: blog_post_template
 ---
+
 Most if not all anime fans would be familiar with the Japanese anime 'One Punch Man'. The show follows the life of one Saitama. A man that vowed to become the greatest hero and so trained incredibly hard that he became strong enough to beat anyone with a single punch (aha!).
 
 After fighting a few monsters and joining the hero academy, he becomes very bored. He goes searching for stronger monsters and more interesting fights. And predictably, at the end of each fight, he ends up bored.

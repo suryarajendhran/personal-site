@@ -1,13 +1,14 @@
 ---
 title: Building an MVP in less than 24 hours
-date: 2020-11-11T18:30:00Z
+date: 2020-11-11T18:30:00.000Z
 description: ''
 tags:
-- entrepreneurship
-- tech
-banner: "/uploads/2w9v2a.jpg"
-
+  - entrepreneurship
+  - tech
+banner: /uploads/2w9v2a.jpg
+_template: blog_post_template
 ---
+
 No it wasn't a challenge we put out for ourselves. We were a humble team of two that planned a modest timeline of a month to develop an education related service and another month to get it to production. It was well thought out plan, we accounted for most common development problems and decided to deal with them head on.
 
 We were 12 days in when I received a call from my mom who worked as the head of an educational institution. Among our daily conversation she mentioned that they were using Google Forms for a test that they were conducting tomorrow. Almost a joke I asked her if she would like to use our product for it. It was 3 PM already and the test was at 3.30 PM the next day. Furthermore our core product was not actually finished, in fact we hadn't even started the frontend. But she said sure. I had to make a judgement call to offer to build a testing solution that students will be using to take an actual test that matters to them. While I am no longer a student, I remember the boiling hatred we had for poor software especially in the context of tests. I said yes though. I ended the call around 4 PM.

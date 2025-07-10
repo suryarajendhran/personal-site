@@ -7,11 +7,11 @@
   "license": "0BSD",
   "starter-name": "gatsby-starter-minimal-blog",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "develop:cypress": "cross-env CYPRESS_SUPPORT=y yarn develop",
-    "build:cypress": "cross-env CYPRESS_SUPPORT=y yarn build",
-    "start": "gatsby develop",
+    "build": "NODE_OPTIONS='--openssl-legacy-provider' gatsby build",
+    "develop": "NODE_OPTIONS='--openssl-legacy-provider' gatsby develop",
+    "develop:cypress": "cross-env CYPRESS_SUPPORT=y NODE_OPTIONS='--openssl-legacy-provider' yarn develop",
+    "build:cypress": "cross-env CYPRESS_SUPPORT=y NODE_OPTIONS='--openssl-legacy-provider' yarn build",
+    "start": "NODE_OPTIONS='--openssl-legacy-provider' gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
@@ -34,5 +34,8 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.3"
+  },
+  "resolutions": {
+    "graphql": "^15.8.0"
   }
 }
